@@ -15,11 +15,3 @@ API Test
 
 
  
-
-
-
-
-
-
-3.	Get Price Details
- 
